@@ -1,7 +1,7 @@
 # CentralZoo_Group06
 [Central_Zoo]
 ====================================================
-+ Supervisor                         : Lể Thanh Nhân
++ Supervisor                         : Lê Thanh Nhân
 + Semester                           : 1
 + Batch no                           :[T1.2209.M0] 
 + Group No                           :[06]
